@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Saqibm128/3520plus/issues"
   },
-  "homepage": "https://github.com/Saqibm128/3520plus#readme"
+  "homepage": "https://github.com/Saqibm128/3520plus#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
