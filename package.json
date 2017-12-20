@@ -4,7 +4,7 @@
   "description": "A quick side project for the break",
   "main": "index.js",
   "scripts": {
-    "test": "node server"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Saqibm128/3520plus#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "serve-static": "^1.13.1"
   }
 }
