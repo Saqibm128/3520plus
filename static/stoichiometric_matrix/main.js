@@ -3,5 +3,4 @@ var num_int = 5; //Interior nodes
 var min_conn = 1;
 var max_conn = 5;
 $(document).ready(function(){
-  console.log("hi")
 });
